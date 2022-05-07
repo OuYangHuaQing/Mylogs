@@ -1,0 +1,44 @@
+body{
+    background:#f0f2f5;
+    height:100%;
+}
+#root{
+    height:100%;
+}
+.header{
+    background:white;
+    border-bottom:1px solid #999;
+}
+.content{
+    height:550px;
+    margin:10px;
+}
+.footer{
+    text-align:center;
+    border-top:1px solid #9999;
+}
+.app-header-logo{
+    float:left;
+    height:45px;
+    margin-top:10px;
+}
+.app-header-menu{
+    float:left;
+    margin-left:30px;
+    margin-top:10px;
+}
+.detail img{
+    float:left;
+    margin-right:10px;
+}
+.login{
+    margin-bottom:10px;
+}
+.vip{
+    border-radius:10px;
+    min-height:100px;
+    background:#fff;
+    text-align:center;
+    line-height:100px;
+    font-size:20px;
+}
